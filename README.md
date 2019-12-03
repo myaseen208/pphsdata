@@ -1,25 +1,9 @@
 # pphsdata: Multiple Indicator Cluster Survey (MICS) 2017-18 Data for Punjab, Pakistan
 
 ## Introduction
-The **pphsdata** provides data set and function for exploration of Multiple Indicator Cluster Survey (MICS) 2017-18 data for Punjab, Pakistan. The results of the present survey are critically important for the purposes of Sustainable Development Goals (SDGs) monitoring, as the survey produces information on 32 global Sustainable Development Goals (SDGs) indicators. The data was collected from 53,840 households selected at the second stage with systematic random sampling out of a sample of 2,692 clusters selected using Probability Proportional to size sampling. Six questionnaires were used in the survey: 
-1. a household questionnaire to collect basic demographic information on all de jure household members (usual residents), the household, and the dwelling; 
-2. a water quality testing questionnaire administered in three households in each cluster of the sample; 
-3. a questionnaire for individual women administered in each household to all women age 15-49 years; 
-4. a questionnaire for individual men administered in every second household to all men age 15-49 years; 
-5. an under-5 questionnaire, administered to mothers (or caretakers) of all children under 5 living in the household; and 
-6. a questionnaire for children age 5-17 years, administered to the mother (or caretaker) of one randomly selected child age 5-17 years living in the household.
+The **Pakistan Panel Household Survey (PPHS)** is a major initiative by the Pakistan Institute of Development Economic (PIDE) and World Bank to maintain a panel dataset covering a wide range of socio-economic and demographic topics. In 2001 the PIDE decided to revisit the IFPRI panel households that were surveyed in 1990-1991- a gap of 10 years. The sample was expanded from the four districts included in the IFPRI sample to 16 districts, adding districts from all the four provinces of Pakistan. Continuing to be a rural survey, it was named the **Pakistan Rural Household Survey (PRHS)**. The second round of the PRHS was carried out in 2004 while the third round was completed in 2010. The third round marked the addition of the urban sample to the existing survey design of the PRHS leading the survey to its current name, the Pakistan Panel Household Survey (PPHS).
+
+*The districts included in the PPHS are shown below in the map.*
 
 
-## Authors
-1. Muhammad Yaseen (myaseen208@gmail.com)
-
-## Installation
-Use **devtools** to install the development version from Github:
-
-```{r}
-if(!require("remotes")) install.packages("remotes")
-remotes::install_github("myaseen208/PakPMICS2018Data")
-```
-
-## License
-This package is free and open source software, licensed under GPL.
+This website is a one-stop centre for all the three rounds of the PPHS-PRHS 2001, 2004 and 2010. Data and questionnaires of the PPHS-PRHS would be available to all for academic purposes using the protocol defined in the relevant sections of this website. The website also provides, or links to, all the research conducted using the PPHS-PRHS dataset(s). All those requesting the data in future are advised to share their research (at least a weblink) with us so that it is included in the website for better dissemination.
