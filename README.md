@@ -6,4 +6,8 @@ The **Pakistan Panel Household Survey (PPHS)** is a major initiative by the Paki
 *The districts included in the PPHS are shown below in the map.*
 
 
+![alt text](images/map.jpg)
+
+
+
 This website is a one-stop centre for all the three rounds of the PPHS-PRHS 2001, 2004 and 2010. Data and questionnaires of the PPHS-PRHS would be available to all for academic purposes using the protocol defined in the relevant sections of this website. The website also provides, or links to, all the research conducted using the PPHS-PRHS dataset(s). All those requesting the data in future are advised to share their research (at least a weblink) with us so that it is included in the website for better dissemination.
